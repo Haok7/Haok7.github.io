@@ -68,10 +68,6 @@ menu:
       name: Tags
       url: /tags/
       weight: 20
-    - identifier: archives
-      name: Archives
-      url: /archives/
-      weight: 30
     # - identifier: previous
     #   name: previous
     #   url: https://blog.foopi.top
