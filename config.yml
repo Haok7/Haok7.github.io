@@ -15,6 +15,10 @@ enableRobotsTXT: true
 canonifyURLs: true
 cleanDestinationDir: true
 
+minify:
+  disableXML: true
+  minifyOutput: true
+
 params:
   # # home-info mode
   # homeInfoParams:
@@ -51,6 +55,8 @@ params:
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   showtoc: true
+
+  disableScrollToTop: true
 
   cover:
     linkFullImages: true
