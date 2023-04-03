@@ -10,3 +10,5 @@ summary: "My first post XD"
 ![](https://img.foopi.top/blog/image-20230328142308407.avif)
 
 ![1st-academic-procrastination](https://img.foopi.top/blog/1st-academic-procrastination.avif)
+
+![image-20230403125328218](https://img.foopi.top/blog/image-20230403125328218.avif)
