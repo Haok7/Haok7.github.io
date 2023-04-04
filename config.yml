@@ -51,7 +51,7 @@ params:
   ShowCodeCopyButtons: true
   showtoc: true
 
-  disableScrollToTop: true
+  disableScrollToTop: false
 
   cover:
     linkFullImages: true
