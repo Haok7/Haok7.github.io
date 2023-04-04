@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tutorial on Foo&#39;s</title>
+    <link>https://foopi.top/categories/tutorial/</link>
+    <description>Recent content in Tutorial on Foo&#39;s</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Mar 2023 12:56:14 +0000</lastBuildDate><atom:link href="https://foopi.top/categories/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>For Hugo</title>
+      <link>https://foopi.top/posts/for-hugo/</link>
+      <pubDate>Mon, 20 Mar 2023 12:56:14 +0000</pubDate>
+      
+      <guid>https://foopi.top/posts/for-hugo/</guid>
+      <description>Tutorial for Hugo.</description>
+    </item>
+    
+  </channel>
+</rss>

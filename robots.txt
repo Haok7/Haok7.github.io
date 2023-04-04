@@ -1,0 +1,33 @@
+User-agent: *
+
+Disallow: /tags/100daysofswiftui/
+
+Disallow: /categories/100daysofswiftui/
+
+Disallow: /100daysofswiftui/
+
+Disallow: /categories/
+
+Disallow: /100daysofswiftui/day-1~14/
+
+Disallow: /
+
+Disallow: /tags/
+
+Disallow: /100daysofswiftui/day-0/
+
+Disallow: /posts/for-hugo/
+
+Disallow: /tags/github-actions/
+
+Disallow: /tags/github-pages/
+
+Disallow: /tags/hugo/
+
+Disallow: /tags/papermod/
+
+Disallow: /posts/
+
+Disallow: /categories/tutorial/
+
+Disallow: /posts/my-first-post/
