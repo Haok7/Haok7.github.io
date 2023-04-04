@@ -12,12 +12,7 @@ buildExpired: false
 
 enableRobotsTXT: true
 
-canonifyURLs: true
 cleanDestinationDir: true
-
-minify:
-  disableXML: true
-  minifyOutput: true
 
 params:
   # # home-info mode
