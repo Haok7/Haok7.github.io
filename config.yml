@@ -47,7 +47,7 @@ params:
 
   defaultTheme: auto # dark, light
   disableThemeToggle: false
-  ShowBreadCrumbs: true
+  ShowBreadCrumbs: false
   ShowCodeCopyButtons: true
   showtoc: true
 
@@ -58,6 +58,7 @@ params:
 
   assets:
     disableHLJS: true
+    disableFingerprinting: true
 
 menu:
   main:
